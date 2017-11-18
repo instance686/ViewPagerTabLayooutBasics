@@ -7,6 +7,7 @@
     android:id="@+id/rootView"
     tools:context="com.example.android.miwok.NumbersActivity"
     android:orientation="vertical"
+
     >
 
 </LinearLayout>
